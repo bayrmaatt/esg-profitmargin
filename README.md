@@ -2,7 +2,7 @@
 
 Predict company profit margins using Environmental, Social, and Governance (ESG) metrics and financial data. This project provides an interactive Streamlit app and a Jupyter notebook for data exploration, modeling, and batch prediction.
 
-Access the Streamlit App here](https://esg-profitmargin-bayrmaatt.streamlit.app)
+[Access the Streamlit App here](https://esg-profitmargin-bayrmaatt.streamlit.app)
 
 ## About The Project
 
