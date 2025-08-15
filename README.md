@@ -2,6 +2,8 @@
 
 Predict company profit margins using Environmental, Social, and Governance (ESG) metrics and financial data. This project provides an interactive Streamlit app and a Jupyter notebook for data exploration, modeling, and batch prediction.
 
+Access the Streamlit App here](https://esg-profitmargin-bayrmaatt.streamlit.app)
+
 ## About The Project
 
 This project explores the relationship between a company's ESG performance and its financial profitability. It features:
@@ -44,7 +46,7 @@ The goal is to provide a user-friendly platform for stakeholders, investors, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/esg-profit-predictor.git
+   git clone (https://github.com/bayrmaatt/esg-profitmargin)
    cd esg-profit-predictor
    ```
 2. Create and activate a virtual environment:
